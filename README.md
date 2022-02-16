@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Newii.
 ---
 - 🔭 I'm currently working on mobile development.
-- 👍🏻 I'm good at Flutter, Android Dev and React
+- 🌱 I'm good at Flutter, Android Dev and React
 - 📫 How to reach me: <br>
 <a href = "https://www.facebook.com/Nachi.new.Nicha" target="blank">
   <img src="https://img.icons8.com/fluency/30/000000/facebook-new.png" height='30'/>
