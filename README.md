@@ -13,24 +13,3 @@ Nice to meet you. 😁
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=runyasak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=runyasak&show_icons=true&theme=dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runyasak&layout=compact&theme=dark" />
-</div>
-
-## Relevant Projects
-
-<div>
-  <a href="https://github.com/runyasak/v-digital-time-picker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=runyasak&repo=v-digital-time-picker&theme=dark" />
-  </a>
-  <a href="https://github.com/runyasak/research-nuxt-storefront">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=runyasak&repo=research-nuxt-storefront&theme=dark" />
-  </a>
-</div>
-
-<div>
- <a href="https://github.com/biigpongsatorn/vue-element-loading">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=biigpongsatorn&repo=vue-element-loading&theme=dark" />
-  </a>
-</div>
