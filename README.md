@@ -1,23 +1,28 @@
-[![Header](https://raw.githubusercontent.com/runyasak/runyasak/master/header.png "Header")](https://www.facebook.com/VueNewsThailand)
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Newii.
+---
+- 🔭 I'm currently working on mobile development.
+- 👍🏻 I'm good at Flutter, React
+- 📫 How to reach me: <br>
+<a href = "https://www.facebook.com/Nachi.new.Nicha" target="blank">
+  <img src="https://img.icons8.com/fluency/30/000000/facebook-new.png" height='30'/>
+</a>
+<a href = "https://www.instagram.com/newiiiiiiiiiiiiiiiiiiii/" target="blank">
+  <img src="https://img.icons8.com/office/30/000000/instagram-new.png"/>
+</a>
+<a href="https://www.linkedin.com/in/nicha-songkiwattanapacharoen-5539b7204/" target="blank"><img src="https://i.imgur.com/a5jDgN0.png" height='30'></a>
+<br>
+- Nice to meet you. 😸
 
-<center>
-
+### 📊 GitHub Stats:
+---
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Newiihuhu&show_icons=true&theme=dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Newiihuhu&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Newiihuhu&show_icons=true&theme=dark" height="170" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Newiihuhu&layout=compact&theme=dark" width="400"/>
 </div>
-</center>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Newiihuhu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Profile Trophy:
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Newiihuhu&theme=onedark&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Newiihuhu)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm World, Front-end Developer from Thailand who loves Vue.js and Americano. 😎 ☕️
-
-I'm currently learning on Vue.js and React.js with passionate to find passionate projects for contributing.
-
-You can follow me on my FB Page, [Vue News Thailand](https://www.facebook.com/VueNewsThailand).
-
-Nice to meet you. 😁
