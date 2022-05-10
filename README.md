@@ -22,7 +22,7 @@ Nice to meet you. 😸
 
 ### 🏆 GitHub Profile Trophy:
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=Newiihuhu&theme=onedark&column=8&margin-w=15&margin-h=15&rank=S)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Newiihuhu&theme=onedark&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
